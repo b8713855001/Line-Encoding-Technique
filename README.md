@@ -13,4 +13,5 @@ Following Encoding Techniques have been implemented
   5.AMI
 
 Input Format
-  First Give Binary Data Sequence To encoded And then in next Line Give One integer to choose one of above mentioned techniques.
+
+  First Give Binary Data Sequence to be encoded And then in next Line Give One integer to choose one of above mentioned techniques.
