@@ -6,8 +6,8 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-s=input()
-print("1.NRZ-L","2.NRZ-I","3.Manchester","4.Differantial Manchester","5.AMI")
+s=input("Give Binary Data Stream As an Input")
+print(" Give Number to Perform Following Technique: ","1.NRZ-L","2.NRZ-I","3.Manchester","4.Differantial Manchester","5.AMI")
 n=int(input())
 if(n==1):
     print("Perform NRZ-L")
